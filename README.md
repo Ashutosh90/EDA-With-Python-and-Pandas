@@ -4,6 +4,8 @@ Performing Exploratory Data Analysis (EDA) on a pandas dataframe for which super
 
 Link to data source: https://www.kaggle.com/aungpyaeap/supermarket-sales
 
+Data has been slightly modified to showcase below tasks.
+
 Task 1: Initial Data Exploration
 
 Task 2: Univariate Analysis
